@@ -1,1 +1,30 @@
-Hello
+{
+  "Items": [
+    {
+      "Heading": "What changed in the last release",
+      "Content": "The last release was 2.4.7.11. The focus was fixing the bugs from the last multi-threading patch, revamping the fleet control and map user interfaces, speeding up the booting time of the game and releasing the 'laser overhaul' work. You can see the full change log in the patch notes section of the main menu.",
+      "UrlLink": "",
+      "ColorTint": "1,1,1,1",
+      "ToolTip": ""
+    },
+    {
+      "Heading": "Bugs to watch out for",
+      "Content": "The major bugs of the last release are fixed (vehicles 'warping' around, battery levels fluctuating, multiplayer issues for clients, PID issues and propulsion issues). We will update this when we are made aware of other significant bugs. Click this message to open the bug tracker.",
+      "UrlLink": "https://brilliantskies.customercase.com/forums/bug-tracker",
+      "ColorTint": "1,1,1,1",
+      "ToolTip": ""
+    },
+    {
+      "Heading": "What's planned for next release",
+      "Content": "The release is planned for the 8th of August- this message will be updated with a hyperlink to the roadmap thread for this release once we have created it",
+      "UrlLink": "",
+      "ColorTint": "1,1,1,1",
+      "ToolTip": ""
+    }
+  ],
+  "Date": "2019-07-26T13:22:38.5055905+01:00",
+  "Author": "Nick (lead developer)",
+  "Display": true,
+  "Title": "What's happening in August and September",
+  "Summary": "August and September are really important months for FTD as we're currently planning to leave early access at the end of September. Between now and then we have four two-week stable release cycles planned and we are focusing on the tutorials, user interface, a revamp of the campaign and working through a few of the most requested tickets on the request tracker"
+}
