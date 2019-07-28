@@ -1,0 +1,12 @@
+{
+  "BugList": [
+    {
+      "VersionFixed": "2,4,8",
+      "Description": "Multi-player chat interface not working",
+      "UrlLink": "",
+      "ItemGuid": "eb6cbbe2-0e0b-4879-a909-9a64387defe3",
+      "ItemVersion": 0
+    }
+  ]
+}
+
