@@ -3,7 +3,7 @@
     {
       "Heading": "What's in this release cycle (sprint one).",
       "Content": "Patch 2.4.8 is the first release of what we are calling 'sprint one'. Unfortunately we have not quite finished all of the tasks of sprint one and as such will be releasing 'tank tracks' and 'tournament mode' on or around the 14th of August. Find out more about what is in this release by visiting the linked forum thread or the release notes UI (main menu, community tab).",
-      "UrlLink": "",
+      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=38874",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
@@ -32,7 +32,7 @@
     },
     {
       "Heading": "Community day",
-      "Content": "We are planning a 12 hour community day to be hosted on our forums at wwww.fromthedepthsgame.com/forum. This will feature a developer run live competition, a design showcase with awards, all of our developers in one place to answer questions and discuss plans for month, and lots more. If you have any ideas for things we can do during this community day we would love to hear them. The date will be announced shortly.",
+      "Content": "We are planning a 12 hour community day to be hosted on our forums at forum.fromthedepthsgame.com. This will feature a developer run live competition, a design showcase with awards, all of our developers in one place to answer questions and discuss plans for month, and lots more. If you have any ideas for things we can do during this community day we would love to hear them. The date will be announced shortly.",
       "UrlLink": "",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
@@ -51,7 +51,7 @@
       "ItemVersion": 0
     }
   ],
-  "Date": "2019-08-08T17:59:27.4444672+01:00",
+  "Date": "2019-08-08T18:16:19.2005283+01:00",
   "Author": "Nick (lead developer)",
   "Display": true,
   "Title": "What's happening in August and September",
