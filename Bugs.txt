@@ -1,7 +1,7 @@
 {
   "BugList": [
     {
-      "VersionFixed": "2,4,8",
+      "VersionFixed": "2,4,10",
       "Title": "Unintentional warping",
       "Description": "Since we added multi-threading we've seen a lot of issues with vehicles warping randomly / on taking damage/ on repairing. In the last two patches we fixed a number of these issues and in this patch we fixed what we hope is the last issue. If you continue to see these issues please follow the link to the bug ticket and report back to us.",
       "UrlLink": "https://brilliantskies.customercase.com/forums/bug-tracker/ideas/185916-ship-suddenly-teleported-underwater-with-log",
