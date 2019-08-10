@@ -8,6 +8,15 @@
       "ToolTip": "",
       "ItemGuid": "eb6cbbe2-0e0b-4879-a909-9a64387defe3",
       "ItemVersion": 0
+    },
+    {
+      "VersionFixed": "9,9,9",
+      "Title": "Campaign airships and airplanes out of control",
+      "Description": "There is a problem causing older vehicle (including campaign designs) to behave erratically (their propulsion and PID configurations are  overwritten). We have identified the problem and are working on a fix, expect it later this weekend. To avoid suffering from this issue after the issue is fixed do not 'save' designs that suffer from this problem. The problem is caused by an automatic migration of settings on loading an old design.",
+      "UrlLink": "",
+      "ToolTip": "",
+      "ItemGuid": "caac718e-99d4-484f-a7d5-17808674426d",
+      "ItemVersion": 0
     }
   ]
 }
