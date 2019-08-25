@@ -51,7 +51,7 @@
       "ItemVersion": 0
     }
   ],
-  "Date": "2019-08-11T18:41:07.9018065+01:00",
+  "Date": "2019-08-19T14:25:47.324787+01:00",
   "Author": "Nick (lead developer)",
   "Display": true,
   "Title": "What's happening in August and September",

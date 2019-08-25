@@ -11,20 +11,11 @@
     },
     {
       "VersionFixed": "9,9,9",
-      "Title": "Campaign airships and airplanes out of control (fixed 2.4.8.4)",
-      "Description": "There is a problem causing older vehicle (including campaign designs) to behave erratically (their propulsion and PID configurations are  overwritten). We have identified the problem and are working on a fix, expect it later this weekend. To avoid suffering from this issue after the issue is fixed do not 'save' designs that suffer from this problem. The problem is caused by an automatic migration of settings on loading an old design.",
-      "UrlLink": "",
+      "Title": "Hologram projector 'lock projection ratio' breaks game",
+      "Description": "Loading a vehicle with a hologram projector set to \"lock projection ratio\" and \"lock projection ratio to image ratio\" modifier will cause the game unplayable. We are working on a fix for the next release.",
+      "UrlLink": "https://brilliantskies.customercase.com/forums/bug-tracker/ideas/193935-critical-after-load-construct-with-hologram-projector-lock-projection-ratio-modifier-will-cause-game-unplayable",
       "ToolTip": "",
-      "ItemGuid": "caac718e-99d4-484f-a7d5-17808674426d",
-      "ItemVersion": 0
-    },
-    {
-      "VersionFixed": "9,9,9",
-      "Title": "Campaign enemy de-spawning issue (fixed 2.4.8.5)",
-      "Description": "We introduced an issue where the de-spawning settings for campaigns were not correctly loaded in 2.4.8. This means that when you load a save from before 2.4.8 the enemies will not correctly de-spawn when damaged. This is now fixed for 2.4.8.5.",
-      "UrlLink": "",
-      "ToolTip": "",
-      "ItemGuid": "50582fc5-b68f-4b4e-8ed8-cac96f2b1780",
+      "ItemGuid": "3406f4c4-1678-470a-bd8e-bcd4c9257be4",
       "ItemVersion": 0
     }
   ]
