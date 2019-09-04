@@ -8,15 +8,6 @@
       "ToolTip": "",
       "ItemGuid": "eb6cbbe2-0e0b-4879-a909-9a64387defe3",
       "ItemVersion": 0
-    },
-    {
-      "VersionFixed": "9,9,9",
-      "Title": "Hologram projector 'lock projection ratio' breaks game",
-      "Description": "Loading a vehicle with a hologram projector set to \"lock projection ratio\" and \"lock projection ratio to image ratio\" modifier will cause the game unplayable. We are working on a fix for the next release.",
-      "UrlLink": "https://brilliantskies.customercase.com/forums/bug-tracker/ideas/193935-critical-after-load-construct-with-hologram-projector-lock-projection-ratio-modifier-will-cause-game-unplayable",
-      "ToolTip": "",
-      "ItemGuid": "3406f4c4-1678-470a-bd8e-bcd4c9257be4",
-      "ItemVersion": 0
     }
   ]
 }

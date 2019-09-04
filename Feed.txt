@@ -1,59 +1,29 @@
 {
   "Items": [
     {
-      "Heading": "What's in this release cycle (sprint one).",
-      "Content": "Patch 2.4.8 is the first release of what we are calling 'sprint one'. Unfortunately we have not quite finished all of the tasks of sprint one and as such will be releasing 'tank tracks' and 'tournament mode' on or around the 14th of August. Find out more about what is in this release by visiting the linked forum thread or the release notes UI (main menu, community tab).",
-      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=38904",
+      "Heading": "What's in this release cycle (sprint two).",
+      "Content": "You'll find the patch notes for this latest patch by following the link...",
+      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=38950",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "0d8ffdac-91c9-48a7-aeff-31f29aabb3d4",
-      "ItemVersion": 0
-    },
-    {
-      "Heading": "Whats in the next release cycle (sprint two)",
-      "Content": "Patch 2.4.9 will be the first release of what we are calling 'sprint two' It is scheduled to make it's first drop on 22nd August. In this sprint cycle we will be beginning the campaign strategic AI overhaul (scheduled for first drop in release cycle 3), revamping the interactive tutorials and build guides, updating some more UIs, adding in a 'cluster CRAM' component and reducing CRAM cost, increasing steam engine durability and adding steam powered turning/propulsion jets, and many other things",
-      "UrlLink": "",
-      "ColorTint": "1,1,1,1",
-      "ToolTip": "The URL to the forum thread for this release cycle will be added when it is posted",
-      "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "b3c7c3a4-b7a9-423a-bacb-4a6e56683c5b",
-      "ItemVersion": 0
-    },
-    {
-      "Heading": "Road to release",
-      "Content": "In addition to the other planned developments we are running an additional community engagement challenge for the next couple of months. It's called 'Road to release' and the goal is to bring the community together across discord, the forum, the steam forum and reddit as well as increasing the reach of our social media channels (facebook and twitter). For every 5K followers we add across those six channels we are releasing an extra little thank you. In this patch you'll find the ability to mirror prefabs which is really neat. If we reach our target for the release cycle two you will find 'Walker Feet' to allow mechanical walkers to function much better on land developed in that release cycle. Visit the forum thread (linked) to find out more about the third and forth rewards. This will help us at launch and strengthen the community so thanks very much for taking part should you chose to do so.",
-      "UrlLink": "",
-      "ColorTint": "1,1,1,1",
-      "ToolTip": "",
-      "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "0fd0721e-520b-447b-81a0-1dc31afb0177",
+      "ItemGuid": "a5887427-0ddf-4d71-9cbc-9bdf1b68e22c",
       "ItemVersion": 0
     },
     {
       "Heading": "Community day",
-      "Content": "We are planning a 12 hour community day to be hosted on our forums at forum.fromthedepthsgame.com. This will feature a developer run live competition, a design showcase with awards, all of our developers in one place to answer questions and discuss plans for month, and lots more. If you have any ideas for things we can do during this community day we would love to hear them. The date will be announced shortly.",
+      "Content": "We are planning a 12 hour community day to be hosted on our forums at forum.fromthedepthsgame.com. This will feature a developer run live competition, a design showcase with awards, all of our developers in one place to answer questions and discuss plans for month, and lots more. If you have any ideas for things we can do during this community day we would love to hear them. The date is likely to be in October as the amount of work needed for release does not really allow a day off!",
       "UrlLink": "",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
       "ItemGuid": "66e211db-d00b-40a3-a7fb-ea4ac81ed1ac",
       "ItemVersion": 0
-    },
-    {
-      "Heading": "Bugs to watch out for",
-      "Content": "The major bugs of the last release are fixed (vehicles 'warping' around, battery levels fluctuating, multiplayer issues for clients and broken chat functionality, PID issues and propulsion issues). We will update this when we are made aware of other significant bugs. Thanks for your patience and help in diagnosing and fixing the warping vehicle issue and propulsion issues.",
-      "UrlLink": "https://brilliantskies.customercase.com/forums/bug-tracker",
-      "ColorTint": "1,1,1,1",
-      "ToolTip": "",
-      "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "d761fe97-13c7-4bd6-b3e0-7b94dee26332",
-      "ItemVersion": 0
     }
   ],
-  "Date": "2019-08-19T14:25:47.324787+01:00",
+  "Date": "2019-09-04T09:33:37.3825894+01:00",
   "Author": "Nick (lead developer)",
   "Display": true,
-  "Title": "What's happening in August and September",
-  "Summary": "August and September are really important months for FTD as we're currently planning to leave early access at the end of September. Between now and then we have four two-week stable release cycles planned (of which this is the first) and we are focusing on the tutorials, user interface, a revamp of the campaign and working through a few of the most requested tickets on the request tracker and fixing the outstanding bug reports."
+  "Title": "What's happening in September",
+  "Summary": "We're currently planning to leave early access on the 26th of September. Between now and then we are focusing on the tutorials, user interface, a revamp of the campaign and fixing the outstanding bug reports."
 }
