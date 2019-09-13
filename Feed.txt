@@ -21,9 +21,9 @@
       "ItemVersion": 0
     }
   ],
-  "Date": "2019-09-04T09:33:37.3825894+01:00",
+  "Date": "2019-09-14T00:00:25.885017+01:00",
   "Author": "Nick (lead developer)",
   "Display": true,
   "Title": "What's happening in September",
-  "Summary": "We're currently planning to leave early access on the 26th of September. Between now and then we are focusing on the tutorials, user interface, a revamp of the campaign and fixing the outstanding bug reports."
+  "Summary": "We're currently planning to leave early access on the 7th November 2019. Between now and then we are focusing on the tutorials, user interface, a revamp of the campaign and fixing the outstanding bug reports."
 }
