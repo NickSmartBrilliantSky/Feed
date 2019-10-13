@@ -22,8 +22,8 @@
     }
   ],
   "Date": "2019-10-13T15:44:39.1777514+01:00",
-  "Author": "Nick "1337" Smart(lead developer)",
+  "Author": "Nick Smart(lead developer)",
   "Display": true,
   "Title": "What's happening in October",
-  "Summary": "We're currently planning to leave early access in 2020 (lololol). Between now and then we are focusing on the tutorials, user interface, a revamp of the campaign and fixing the outstanding bug reports."
+  "Summary": "We're currently planning to leave early access in 2020. Between now and then we are focusing on the tutorials, user interface, a revamp of the campaign and fixing the outstanding bug reports."
 }
