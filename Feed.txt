@@ -1,13 +1,53 @@
 {
   "Items": [
     {
-      "Heading": "What's in this release cycle (sprint two).",
-      "Content": "You'll find the patch notes for this latest patch by following the link...",
-      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=38950",
+      "Heading": "Hot topics / proposed ideas and what is coming to From The Depths",
+      "Content": "APS LAMS and Missile changes discussion thread",
+      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=38956",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "a5887427-0ddf-4d71-9cbc-9bdf1b68e22c",
+      "ItemGuid": "e11ccc1c-b43c-47d5-bc83-1812799ebf79",
+      "ItemVersion": 0
+    },
+    {
+      "Heading": "Proposal for campaign changes",
+      "Content": "",
+      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=38922",
+      "ColorTint": "1,1,1,1",
+      "ToolTip": "",
+      "ExpiryTime": "2100-01-01T00:00:00",
+      "ItemGuid": "e11ccc1c-b43c-47d5-bc83-1812799ebf79",
+      "ItemVersion": 0
+    },
+    {
+      "Heading": "Possible custom jet engine change",
+      "Content": "",
+      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=39027",
+      "ColorTint": "1,1,1,1",
+      "ToolTip": "",
+      "ExpiryTime": "2100-01-01T00:00:00",
+      "ItemGuid": "e11ccc1c-b43c-47d5-bc83-1812799ebf79",
+      "ItemVersion": 0
+    },
+    {
+      "Heading": "What's in this release 2.5.0.7 Stable",
+      "Content": "You'll find the patch notes for this latest patch by following the link...",
+      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=39035",
+      "ColorTint": "1,1,1,1",
+      "ToolTip": "",
+      "ExpiryTime": "2100-01-01T00:00:00",
+      "ItemGuid": "e11ccc1c-b43c-47d5-bc83-1812799ebf79",
+      "ItemVersion": 0
+    },
+    {
+      "Heading": "Whats in this DevTest branch",
+      "Content": "Coming soonTM",
+      "UrlLink": "",
+      "ColorTint": "1,1,1,1",
+      "ToolTip": "",
+      "ExpiryTime": "2100-01-01T00:00:00",
+      "ItemGuid": "e11ccc1c-b43c-47d5-bc83-1812799ebf79",
       "ItemVersion": 0
     },
     {
@@ -17,13 +57,13 @@
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "66e211db-d00b-40a3-a7fb-ea4ac81ed1ac",
+      "ItemGuid": "e11ccc1c-b43c-47d5-bc83-1812799ebf79",
       "ItemVersion": 0
     }
   ],
-  "Date": "2019-10-13T15:44:39.1777514+01:00",
-  "Author": "Nick (lead developer)",
+  "Date": "2019-10-15T17:27:34.0522409+02:00",
+  "Author": "Jon (Community Manager)",
   "Display": true,
-  "Title": "What's happening in October",
-  "Summary": "We're currently planning to leave early access in 2020. Between now and then we are focusing on the tutorials, user interface, a revamp of the campaign and fixing the outstanding bug reports."
+  "Title": "Keeping you all up to date in game too!",
+  "Summary": "We're currently planning to leave early access in 2020. Between now and then we are focusing on the tutorials, user interface, a revamp of the campaign and fixing the outstanding bug reports. Please check out the links below and come give us your feedback :D "
 }
