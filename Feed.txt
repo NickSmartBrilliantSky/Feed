@@ -1,13 +1,13 @@
 {
   "Items": [
     {
-      "Heading": "EGX UK's largest gaming event",
-      "Content": "Nick, Mike, Mattia and Sean, will also be participating in the coming EGX.EGX is one of the UK’s biggest gaming events which will be held in London from the 17th to the 20th of October. Brilliant skies will have a booth set up, so if anyone is in London or is going, please go say hi and upset Sean for me.If you would like more details on EGX check the link below",
-      "UrlLink": "https://www.egx.net/egx",
+      "Heading": "Undo / Redo small update to stable",
+      "Content": "We are really happy to release into stable the Undo / Redo feature that Weng has been working on.",
+      "UrlLink": "",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "e11ccc1c-b43c-47d5-bc83-1812799ebf79",
+      "ItemGuid": "626623b5-eeaa-4ff5-9cf9-faab2a492468",
       "ItemVersion": 0
     },
     {
@@ -17,7 +17,7 @@
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "e11ccc1c-b43c-47d5-bc83-1812799ebf79",
+      "ItemGuid": "626623b5-eeaa-4ff5-9cf9-faab2a492468",
       "ItemVersion": 0
     },
     {
@@ -27,7 +27,7 @@
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "e11ccc1c-b43c-47d5-bc83-1812799ebf79",
+      "ItemGuid": "626623b5-eeaa-4ff5-9cf9-faab2a492468",
       "ItemVersion": 0
     },
     {
@@ -37,17 +37,7 @@
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "e11ccc1c-b43c-47d5-bc83-1812799ebf79",
-      "ItemVersion": 0
-    },
-    {
-      "Heading": "What's in this release 2.5.0.7 Stable",
-      "Content": "You'll find the patch notes for this latest patch by following the link...",
-      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=39035",
-      "ColorTint": "1,1,1,1",
-      "ToolTip": "",
-      "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "e11ccc1c-b43c-47d5-bc83-1812799ebf79",
+      "ItemGuid": "626623b5-eeaa-4ff5-9cf9-faab2a492468",
       "ItemVersion": 0
     },
     {
@@ -67,11 +57,11 @@
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "e11ccc1c-b43c-47d5-bc83-1812799ebf79",
+      "ItemGuid": "626623b5-eeaa-4ff5-9cf9-faab2a492468",
       "ItemVersion": 0
     }
   ],
-  "Date": "2019-10-15T17:41:05.3208686+02:00",
+  "Date": "2019-10-25T18:16:55.7632692+02:00",
   "Author": "Jon (Community Manager)",
   "Display": true,
   "Title": "Keeping you all up to date in game too!",
