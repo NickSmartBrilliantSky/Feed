@@ -1,23 +1,13 @@
 {
   "Items": [
     {
-      "Heading": "Undo / Redo small update to stable",
-      "Content": "We are really happy to release into stable the Undo / Redo feature that Weng has been working on.",
-      "UrlLink": "",
-      "ColorTint": "1,1,1,1",
-      "ToolTip": "",
-      "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "626623b5-eeaa-4ff5-9cf9-faab2a492468",
-      "ItemVersion": 0
-    },
-    {
       "Heading": "Hot topics / proposed ideas and what is coming to From The Depths",
       "Content": "APS LAMS and Missile changes discussion thread",
       "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=38956",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "626623b5-eeaa-4ff5-9cf9-faab2a492468",
+      "ItemGuid": "5286c188-4d53-486b-88e9-101445255fc6",
       "ItemVersion": 0
     },
     {
@@ -27,7 +17,7 @@
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "626623b5-eeaa-4ff5-9cf9-faab2a492468",
+      "ItemGuid": "5286c188-4d53-486b-88e9-101445255fc6",
       "ItemVersion": 0
     },
     {
@@ -37,7 +27,17 @@
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "626623b5-eeaa-4ff5-9cf9-faab2a492468",
+      "ItemGuid": "5286c188-4d53-486b-88e9-101445255fc6",
+      "ItemVersion": 0
+    },
+    {
+      "Heading": "What's in this release 2.5.2",
+      "Content": "[BUGS-1460] fixed an issue with mainframe naming on the AI interface",
+      "UrlLink": "https://brilliantskies.customercase.com/forums/bug-tracker/ideas/202295-when-renaming-an-ai-mainframe-if-you-clear-the-name-out-it-is-replaced-with-the-id-of-the-block",
+      "ColorTint": "1,1,1,1",
+      "ToolTip": "",
+      "ExpiryTime": "2100-01-01T00:00:00",
+      "ItemGuid": "5286c188-4d53-486b-88e9-101445255fc6",
       "ItemVersion": 0
     },
     {
@@ -47,7 +47,7 @@
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "e11ccc1c-b43c-47d5-bc83-1812799ebf79",
+      "ItemGuid": "5286c188-4d53-486b-88e9-101445255fc6",
       "ItemVersion": 0
     },
     {
@@ -57,11 +57,11 @@
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "626623b5-eeaa-4ff5-9cf9-faab2a492468",
+      "ItemGuid": "5286c188-4d53-486b-88e9-101445255fc6",
       "ItemVersion": 0
     }
   ],
-  "Date": "2019-10-25T18:16:55.7632692+02:00",
+  "Date": "2019-11-05T16:40:52.8291834+01:00",
   "Author": "Jon (Community Manager)",
   "Display": true,
   "Title": "Keeping you all up to date in game too!",
