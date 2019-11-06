@@ -7,7 +7,7 @@
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "5286c188-4d53-486b-88e9-101445255fc6",
+      "ItemGuid": "469c1f43-3d4b-497f-a163-70a4cd6f739f",
       "ItemVersion": 0
     },
     {
@@ -17,7 +17,7 @@
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "5286c188-4d53-486b-88e9-101445255fc6",
+      "ItemGuid": "469c1f43-3d4b-497f-a163-70a4cd6f739f",
       "ItemVersion": 0
     },
     {
@@ -27,17 +27,17 @@
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "5286c188-4d53-486b-88e9-101445255fc6",
+      "ItemGuid": "469c1f43-3d4b-497f-a163-70a4cd6f739f",
       "ItemVersion": 0
     },
     {
       "Heading": "Whats in this DevTest branch",
-      "Content": "Coming soonTM",
+      "Content": "Blueprint authoring the first steps towards achievements. BP authoring will add your name to your new constructs that are saved in this update. Anything prior to this update won't have any author. If you use V on a construct you will see your unique ID and your name if the construct is yours, you will also see blocks from other authors which will increase if you add any prefabs from someone else's construct.",
       "UrlLink": "",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "5286c188-4d53-486b-88e9-101445255fc6",
+      "ItemGuid": "469c1f43-3d4b-497f-a163-70a4cd6f739f",
       "ItemVersion": 0
     },
     {
@@ -47,11 +47,11 @@
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "5286c188-4d53-486b-88e9-101445255fc6",
+      "ItemGuid": "469c1f43-3d4b-497f-a163-70a4cd6f739f",
       "ItemVersion": 0
     }
   ],
-  "Date": "2019-11-05T16:50:05.0749745+01:00",
+  "Date": "2019-11-06T16:21:58.88423+01:00",
   "Author": "Jon (Community Manager)",
   "Display": true,
   "Title": "Keeping you all up to date in game too!",
