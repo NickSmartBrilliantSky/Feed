@@ -1,39 +1,43 @@
 {
   "Items": [
     {
+      "DisplayAtAndAboveThisVersion": "0,0,0",
       "Heading": "Hot topics / proposed ideas and what is coming to From The Depths",
       "Content": "APS LAMS and Missile changes discussion thread",
       "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=38956",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "469c1f43-3d4b-497f-a163-70a4cd6f739f",
+      "ItemGuid": "0f4254d0-eedf-4cc0-845f-cea84e3593fa",
       "ItemVersion": 0
     },
     {
+      "DisplayAtAndAboveThisVersion": "0,0,0",
       "Heading": "Proposal for campaign changes",
       "Content": "",
       "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=38922",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "469c1f43-3d4b-497f-a163-70a4cd6f739f",
+      "ItemGuid": "0f4254d0-eedf-4cc0-845f-cea84e3593fa",
       "ItemVersion": 0
     },
     {
+      "DisplayAtAndAboveThisVersion": "0,0,0",
       "Heading": "Possible custom jet engine change",
       "Content": "",
       "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=39027",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "469c1f43-3d4b-497f-a163-70a4cd6f739f",
+      "ItemGuid": "0f4254d0-eedf-4cc0-845f-cea84e3593fa",
       "ItemVersion": 0
     },
     {
-      "Heading": "Whats in this DevTest branch",
-      "Content": "Blueprint authoring the first steps towards achievements. BP authoring will add your name to your new constructs that are saved in this update. Anything prior to this update won't have any author. If you use V on a construct you will see your unique ID and your name if the construct is yours, you will also see blocks from other authors which will increase if you add any prefabs from someone else's construct.",
-      "UrlLink": "",
+      "DisplayAtAndAboveThisVersion": "0,0,0",
+      "Heading": "Whats in this DevTest branch NOT IN STABLE!",
+      "Content": "Blueprint authoring the first steps towards achievements. BP authoring will add your name to your new constructs that are saved in this update. Anything prior to this update won't have any author. If you use V on a construct you will see your unique ID and your name if the construct is yours, you will also see blocks from other authors which will increase if you add any prefabs from someone else's construct.\n \nfixed an issue with mainframe naming on the AI interface \n Removed the velocity estimate of the aim point for sea skimming mode and one turn mode to stop conflicts \nFixed an uncommon issue with the deletion of a blueprint potentially breaking the UI \n \nAdded a quick edit button to save a copy of the suggested vehicle and open the designer ready to edit it \nAdded a 'tag' system for story mission arcs to allow the automatic assignment of a player edited blueprint from mission to mission \n Added a firepower estimate adjustment for each design so that the AI will be able to better select units to match the player skill in future \n \nWhen you launch designer with a default vehicle it no longer spawns the vanilla designer raft \n The effect for dying in the absense of a heartstone has been changed and it's more clear what is going on. \n \nThe display block is now fully customisable \n \n Please also check the following link for Firepower displays, QoL changes and simple weapons",
+      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=39108",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
@@ -41,6 +45,7 @@
       "ItemVersion": 0
     },
     {
+      "DisplayAtAndAboveThisVersion": "0,0,0",
       "Heading": "Community day",
       "Content": "We are planning a 12 hour community day to be hosted on our forums at forum.fromthedepthsgame.com. This will feature a developer run live competition, a design showcase with awards, all of our developers in one place to answer questions and discuss plans for month, and lots more. If you have any ideas for things we can do during this community day we would love to hear them. The date is likely to be in October as the amount of work needed for release does not really allow a day off!",
       "UrlLink": "",
@@ -51,7 +56,7 @@
       "ItemVersion": 0
     }
   ],
-  "Date": "2019-11-06T16:21:58.88423+01:00",
+  "Date": "2019-11-13T18:38:06.3742196+01:00",
   "Author": "Jon (Community Manager)",
   "Display": true,
   "Title": "Keeping you all up to date in game too!",
