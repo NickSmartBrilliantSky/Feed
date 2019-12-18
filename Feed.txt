@@ -2,46 +2,24 @@
   "Items": [
     {
       "DisplayAtAndAboveThisVersion": "0,0,0,0",
-      "Heading": "Hot topics / proposed ideas and what is coming to From The Depths",
-      "Content": "APS LAMS and Missile changes discussion thread",
-      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=38956",
-      "ColorTint": "1,1,1,1",
-      "ToolTip": "",
-      "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "0f4254d0-eedf-4cc0-845f-cea84e3593fa",
-      "ItemVersion": 0
-    },
-    {
-      "DisplayAtAndAboveThisVersion": "0,0,0,0",
       "Heading": "Proposal for campaign changes",
       "Content": "",
       "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=38922",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "0f4254d0-eedf-4cc0-845f-cea84e3593fa",
+      "ItemGuid": "76c8c672-9681-402d-b15f-43a7ad2eaeea",
       "ItemVersion": 0
     },
     {
       "DisplayAtAndAboveThisVersion": "0,0,0,0",
-      "Heading": "Possible custom jet engine change",
-      "Content": "",
-      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=39027",
+      "Heading": "Whats in this DevTest branch 2.5.3 NOT IN STABLE!",
+      "Content": "This Devbuild will introduce the new ammo changes, link to the discussion below./n For those that have not opted for DevTest through Steam, this build addresses a number of things which I shall try to summarise lightly below for those that are curious, however, more in-depth details will be found on the main forum and more so in the link provided./n/nResource containers ammo and fuel capacity increase and empty variants and material cost changes./n Resource processing; Resource zones in campaign and adventure have faster regen and higher capacity. Ammo processors give 7.5 ammo for 0.5 materials every 2 seconds, fuel refineries have had a change and turn 1 mat into 11 - 15 fuel. We have also added a buy fuel and ammo buttons to the map view, 1 mat buys 10 fuel or ammo and the cost is taken from allies within 1000m closest first./n/nRefineries have had price changes to the components, efficiency changes, gas build - up changes./nAmmo / fuel / power costs such as; missile ammo cost down to 40 %, APS down to 50 %, lasers get 1 energy for 1 power per second, simple weapon costs down to 20 - 40 % of previous values, planar shield costs down to 100 and power cost down by 50 % hopefully making them more attractive to use.Fuel efficiency down to halfe the previous value, which is temporary until turbos are changed.RTG energy / volume down from 25 to 15 and RTG repair cost is full rather than 5 %./n/nNumerous damage adjustments made to missile damage, APS casings now count as ¼ a component for ammo cost / reload times, HE damage down by 25 % Frag up by 20 %. Low cal Kinetic has a scaling buff which tops out at 100 % bonus damage at < 125mm instead of 41 %, however kinetic AP down by 8 % HP damage up 10 % HESH down to 45 % /n/nA number of blueprint changes to address the new empty containers, APS has a new tickbox to force the desired guage(so when a guage increaser has been destroyed the APS does not empty clips and reloadsto the smaller guage). /nMissile countermeasure changes IR / Radar / Target sim strength scale with volume, each missile rolls 10 sperate decoy strength reductions(each decoy missile gets a number between 1 - 10) This means multiple 10 - 15 smaller decoys can be practical./n/nAnd a number of other tweaks and fixes",
+      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=39192",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "0f4254d0-eedf-4cc0-845f-cea84e3593fa",
-      "ItemVersion": 0
-    },
-    {
-      "DisplayAtAndAboveThisVersion": "0,0,0,0",
-      "Heading": "Whats in this DevTest branch NOT IN STABLE!",
-      "Content": "Blueprint authoring the first steps towards achievements. BP authoring will add your name to your new constructs that are saved in this update. Anything prior to this update won't have any author. If you use V on a construct you will see your unique ID and your name if the construct is yours, you will also see blocks from other authors which will increase if you add any prefabs from someone else's construct.\n \nfixed an issue with mainframe naming on the AI interface \n Removed the velocity estimate of the aim point for sea skimming mode and one turn mode to stop conflicts \nFixed an uncommon issue with the deletion of a blueprint potentially breaking the UI \n \nAdded a quick edit button to save a copy of the suggested vehicle and open the designer ready to edit it \nAdded a 'tag' system for story mission arcs to allow the automatic assignment of a player edited blueprint from mission to mission \n Added a firepower estimate adjustment for each design so that the AI will be able to better select units to match the player skill in future \n \nWhen you launch designer with a default vehicle it no longer spawns the vanilla designer raft \n The effect for dying in the absense of a heartstone has been changed and it's more clear what is going on. \n \nThe display block is now fully customisable \n Visible, radar and sonar detection range is reduced to 30% for subconstructs (the detection range of a turret is reduced, so a 100 blocks on a turret is equivalent to 30 blocks on the hull) \n \n PLEASE NOTE : The diameter scaling boost is temporary! It makes ~100 - 150mm shells relatively weak compared to < 50mm, especially with HP head.Just a quick change to make small kinetic feel better in the meantime. \n \nSteam engine Pressure when spawned can now be configured (it will be the 'auto-regulated one')\nSteam engine It is now possible to auto-regulate the material burn in order to achieve the given pressure (configurable using the boiler controller UI or an ACB)\nACB It is now possible to check the pressure of the closest boiler controller (on the same construct, spinBlock, piston, etc.)\nSteam engine Material consumption is more efficient at low burn rates, and less efficient at high burn rates \n Steam engine Large boilers now have 10% more volume than 9 small ones \nSteam engine Huge boilers now have 20% more volume than 25 small ones\n Steam engine Steam engines now consume material in out of play when the vehicle is moving using steam jets or steam propellers \n Steam engine Steam do not consume material out of play for power generation if there's no turbine or generator \n\n Missiles Added a Cluster munition system to the missiles.Cluster containers can fire missiles cluster ejector units that fit(length and volume) into the cluster container.\n\n Please also check the following link for Firepower displays, QoL changes and simple weapons",
-      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=39108",
-      "ColorTint": "1,1,1,1",
-      "ToolTip": "",
-      "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "434c77e9-7f66-4b11-b549-8be78d70b86b",
+      "ItemGuid": "76c8c672-9681-402d-b15f-43a7ad2eaeea",
       "ItemVersion": 0
     },
     {
@@ -56,7 +34,7 @@
       "ItemVersion": 0
     }
   ],
-  "Date": "2019-11-24T18:24:52.6674187+01:00",
+  "Date": "2019-12-19T00:39:53.1200212+01:00",
   "Author": "Jon (Community Manager)",
   "Display": true,
   "Title": "Keeping you all up to date in game too!",
