@@ -24,6 +24,17 @@
     },
     {
       "DisplayAtAndAboveThisVersion": "0,0,0,0",
+      "Heading": "Hotfix",
+      "Content": "Just released a hotfix to stable, which addresses prefabs not setting their stored values and mimics not prefabbing",
+      "UrlLink": "",
+      "ColorTint": "1,1,1,1",
+      "ToolTip": "",
+      "ExpiryTime": "2100-01-01T00:00:00",
+      "ItemGuid": "f45b6fc5-f136-4e4b-a4fe-0b4d04df31c1",
+      "ItemVersion": 0
+    },
+    {
+      "DisplayAtAndAboveThisVersion": "0,0,0,0",
       "Heading": "Community day",
       "Content": "We are planning a 12 hour community day to be hosted on our forums at forum.fromthedepthsgame.com. This will feature a developer run live competition, a design showcase with awards, all of our developers in one place to answer questions and discuss plans for month, and lots more. If you have any ideas for things we can do during this community day we would love to hear them. The date is likely to be in October as the amount of work needed for release does not really allow a day off!",
       "UrlLink": "",
@@ -34,9 +45,9 @@
       "ItemVersion": 0
     }
   ],
-  "Date": "2019-12-19T01:05:10.3870873+01:00",
+  "Date": "2019-12-23T14:45:57.9968895+01:00",
   "Author": "Jon (Community Manager)",
   "Display": true,
   "Title": "Keeping you all up to date in game too!",
-  "Summary": "We're currently planning to leave early access in 2020. Between now and then we are focusing on the tutorials, user interface, a revamp of the campaign and fixing the outstanding bug reports. Please check out the links below and come give us your feedback :D "
+  "Summary": "We're currently planning to leave early access mid 2020. Between now and then we are focusing on the tutorials, user interface, a revamp of the campaign and fixing the outstanding bug reports. Please check out the links below and come give us your feedback :D "
 }
