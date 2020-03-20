@@ -2,50 +2,28 @@
   "Items": [
     {
       "DisplayAtAndAboveThisVersion": "0,0,0,0",
-      "Heading": "Proposal for campaign changes",
+      "Heading": "Whats in this DevTest branch 2.6.0 NOT IN STABLE!",
+      "Content": "This build is mainly revolving around the strategic AI, numerous new structural blocks and around 150 entries mixed of bug fixes and requests.\n You will also find that we have turned off the fog of war so that you can see what the AI is up to in the Neter campaign and tell us if anything seems wrong. \n You can find the whole list of bug fixes and requests that have made it into this current Devtest build in the link below.\n If you do run into issues and need to report any bugs please use the bug tracker page which I shall also leave below. \n ",
+      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=39295",
+      "ColorTint": "1,1,1,1",
+      "ToolTip": "",
+      "ExpiryTime": "2100-01-01T00:00:00",
+      "ItemGuid": "547bb9fa-a343-4696-8ac7-0646227f541f",
+      "ItemVersion": 0
+    },
+    {
+      "DisplayAtAndAboveThisVersion": "0,0,0,0",
+      "Heading": "Report bugs here",
       "Content": "",
-      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=38922",
+      "UrlLink": "https://brilliantskies.customercase.com/forums/bug-tracker",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "76c8c672-9681-402d-b15f-43a7ad2eaeea",
-      "ItemVersion": 0
-    },
-    {
-      "DisplayAtAndAboveThisVersion": "0,0,0,0",
-      "Heading": "Whats in this DevTest branch 2.5.3 NOT IN STABLE!",
-      "Content": "This Devbuild will introduce the new ammo changes, link to the discussion below. \nFor those that have not opted for DevTest through Steam, this build addresses a number of things which I shall try to summarise lightly below for those that are curious, however, more in-depth details will be found on the main forum and more so in the link provided. \n\nResource containers ammo and fuel capacity increase and empty variants and material cost changes. \n Resource processing; Resource zones in campaign and adventure have faster regen and higher capacity. Ammo processors give 7.5 ammo for 0.5 materials every 2 seconds, fuel refineries have had a change and turn 1 mat into 11 - 15 fuel. We have also added a buy fuel and ammo buttons to the map view, 1 mat buys 10 fuel or ammo and the cost is taken from allies within 1000m closest first. \n\nRefineries have had price changes to the components, efficiency changes, gas build - up changes. \n Ammo / fuel / power costs such as; missile ammo cost down to 40 %, APS down to 50 %, lasers get 1 energy for 1 power per second, simple weapon costs down to 20 - 40 % of previous values, planar shield costs down to 100 and power cost down by 50 % hopefully making them more attractive to use. \n Fuel efficiency down to halfe the previous value, which is temporary until turbos are changed.RTG energy / volume down from 25 to 15 and RTG repair cost is full rather than 5 %. \n\n Numerous damage adjustments made to missile damage, APS casings now count as ¼ a component for ammo cost / reload times, HE damage down by 25 % Frag up by 20 %. Low cal Kinetic has a scaling buff which tops out at 100 % bonus damage at < 125mm instead of 41 %, however kinetic AP down by 8 % HP damage up 10 % HESH down to 45 % \n\n A number of blueprint changes to address the new empty containers, APS has a new tickbox to force the desired guage(so when a guage increaser has been destroyed the APS does not empty clips and reloadsto the smaller guage). \n Missile countermeasure changes IR / Radar / Target sim strength scale with volume, each missile rolls 10 sperate decoy strength reductions(each decoy missile gets a number between 1 - 10) This means multiple 10 - 15 smaller decoys can be practical. \n\n And a number of other tweaks and fixes. /n/n I reposted this news as the layout was all messed up, sorry about that",
-      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=39192",
-      "ColorTint": "1,1,1,1",
-      "ToolTip": "",
-      "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "3d5d5c57-541a-447f-a53c-09d36e337820",
-      "ItemVersion": 0
-    },
-    {
-      "DisplayAtAndAboveThisVersion": "0,0,0,0",
-      "Heading": "Hotfix",
-      "Content": "Just released a hotfix to stable, which addresses prefabs not setting their stored values and mimics not prefabbing and we also resolved the V menu bug",
-      "UrlLink": "",
-      "ColorTint": "1,1,1,1",
-      "ToolTip": "",
-      "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "9e3cb892-b3cd-4f57-a90d-35e8eba6217a",
-      "ItemVersion": 0
-    },
-    {
-      "DisplayAtAndAboveThisVersion": "0,0,0,0",
-      "Heading": "Community day",
-      "Content": "We are planning a 12 hour community day to be hosted on our forums at forum.fromthedepthsgame.com. This will feature a developer run live competition, a design showcase with awards, all of our developers in one place to answer questions and discuss plans for month, and lots more. If you have any ideas for things we can do during this community day we would love to hear them. The date is likely to be in October as the amount of work needed for release does not really allow a day off!",
-      "UrlLink": "",
-      "ColorTint": "1,1,1,1",
-      "ToolTip": "",
-      "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "469c1f43-3d4b-497f-a163-70a4cd6f739f",
+      "ItemGuid": "6df4c86d-e028-43f0-81b5-d954b30d94da",
       "ItemVersion": 0
     }
   ],
-  "Date": "2019-12-23T16:22:26.7704726+01:00",
+  "Date": "2020-03-20T18:31:14.5520287+01:00",
   "Author": "Jon (Community Manager)",
   "Display": true,
   "Title": "Keeping you all up to date in game too!",
