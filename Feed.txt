@@ -2,13 +2,13 @@
   "Items": [
     {
       "DisplayAtAndAboveThisVersion": "0,0,0,0",
-      "Heading": "Whats in this DevTest branch 2.6.0 NOT IN STABLE!",
-      "Content": "This build is mainly revolving around the strategic AI, numerous new structural blocks and around 150 entries mixed of bug fixes and requests.\n You will also find that we have turned off the fog of war so that you can see what the AI is up to in the Neter campaign and tell us if anything seems wrong. \n You can find the whole list of bug fixes and requests that have made it into this current Devtest build in the link below.\n If you do run into issues and need to report any bugs please use the bug tracker page which I shall also leave below. \n ",
+      "Heading": "Whant to know whats in the latest DevTest Build 2.6.7??",
+      "Content": "This build is mainly revolving around the strategic AI, numerous new structural blocks and around 300 entries mixed of bug fixes, loads of new features and requests.\n You will also find that we have turned off the fog of war so that you can see what the AI is up to in the Neter campaign and tell us if anything seems wrong. \n You can find the whole list of bug fixes and requests that have made it into this current Devtest build in the link below, which is split in to sections for each batch 2.6.x update.\n If you do run into issues and need to report any bugs please use the bug tracker page which I shall also leave below. \n ",
       "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=39295",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "547bb9fa-a343-4696-8ac7-0646227f541f",
+      "ItemGuid": "cb179ff9-3a04-4429-9d8f-b720eb20dad5",
       "ItemVersion": 0
     },
     {
@@ -19,11 +19,11 @@
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "6df4c86d-e028-43f0-81b5-d954b30d94da",
+      "ItemGuid": "cb179ff9-3a04-4429-9d8f-b720eb20dad5",
       "ItemVersion": 0
     }
   ],
-  "Date": "2020-03-20T18:31:14.5520287+01:00",
+  "Date": "2020-05-22T21:34:57.5098423+02:00",
   "Author": "Jon (Community Manager)",
   "Display": true,
   "Title": "Keeping you all up to date in game too!",
