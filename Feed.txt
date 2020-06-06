@@ -3,12 +3,12 @@
     {
       "DisplayAtAndAboveThisVersion": "0,0,0,0",
       "Heading": "Whant to know whats in the latest DevTest Build 2.6.9? Then check out the link below",
-      "Content": "This should be the last Devtest build before we release the stable update hopefully Monday if all goes well! :) \n If you do run into issues and need to report any bugs please use the bug tracker page which I shall also leave below. \n ",
+      "Content": "This should be the last Devtest build before we release the stable update hopefully Monday if all goes well! :) \n If you do run into issues and need to report any bugs please use the bug tracker page which I shall also leave below. \n We will be setting Neter 2019 physics as the default setting with the coming update, this may affect a number of your builds in terms of forward and upwards thrust. \n You can turn on the 2019 physics from now if you wish from Options > Config > Neter 2019 Settings . \n Campaign saves from the current stable will not work when the update goes live.",
       "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=39295",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "e497da38-d5d8-4582-b21b-e076eb1e45bc",
+      "ItemGuid": "95302bd6-e781-4b95-800f-23a7b682b1ad",
       "ItemVersion": 0
     },
     {
@@ -19,11 +19,11 @@
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "e497da38-d5d8-4582-b21b-e076eb1e45bc",
+      "ItemGuid": "95302bd6-e781-4b95-800f-23a7b682b1ad",
       "ItemVersion": 0
     }
   ],
-  "Date": "2020-06-05T18:38:28.9501649+02:00",
+  "Date": "2020-06-06T18:20:33.3737173+02:00",
   "Author": "Jon (Community Manager)",
   "Display": true,
   "Title": "Keeping you all up to date in game too!",
