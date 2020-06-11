@@ -2,28 +2,28 @@
   "Items": [
     {
       "DisplayAtAndAboveThisVersion": "0,0,0,0",
-      "Heading": "Hey all! Hopefully you are all enjoying 2.7. Currently both DevTest and Stable are on the same build for now.",
-      "Content": "We just released a hotfix for multiplayer and some other things which you can check out in the link below tagged with today's date 9th June \n If you do run into issues and need to report any bugs please use the bug tracker page which I shall also leave below. \n Please remember that we have set Neter 2019 physics as the default setting. \n You can turn the 2019 physics off from Options > Config > Neter 2019 Settings, however we do not recommend it.",
+      "Heading": "Hey all! \n ",
+      "Content": "We have had a number of reports regarding wheel load bearing which we are looking into and we are also investigating issues that are unique to linux and mac, such as the build menu list disappearing and invisible models \n ",
       "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=39378",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "3109c042-346c-407a-b168-cd15e0cf3f71",
+      "ItemGuid": "298a14f1-8c95-4965-b6bd-fedadbff8c6d",
       "ItemVersion": 0
     },
     {
       "DisplayAtAndAboveThisVersion": "0,0,0,0",
-      "Heading": "Report bugs here",
+      "Heading": "2.7.2 Devtest here",
       "Content": "",
-      "UrlLink": "https://brilliantskies.customercase.com/forums/bug-tracker",
+      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=39394",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "3109c042-346c-407a-b168-cd15e0cf3f71",
+      "ItemGuid": "298a14f1-8c95-4965-b6bd-fedadbff8c6d",
       "ItemVersion": 0
     }
   ],
-  "Date": "2020-06-09T23:34:40.414892+02:00",
+  "Date": "2020-06-12T00:34:23.4241087+02:00",
   "Author": "Jon (Community Manager)",
   "Display": true,
   "Title": "Keeping you all up to date in game too!",
