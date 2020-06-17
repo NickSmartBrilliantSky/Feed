@@ -3,27 +3,16 @@
     {
       "DisplayAtAndAboveThisVersion": "0,0,0,0",
       "Heading": "Hey all! \n ",
-      "Content": "We have had a number of reports regarding wheel load bearing which we are looking into and we are also investigating issues that are unique to linux and mac, such as the build menu list disappearing and invisible models \n ",
+      "Content": "We have released an update to stable v2.7.2. \n We will post the change log to the main 2.7 post later on as there is a small issue atm, it will be dated 17.6.2020, we shall also put this on Steam. \n This addresses a number of issues mainly the Linux prefab and menu bug and a number of new features, such as Wengs Q menu additions to refil ammo/fuel etc in designer mode. ",
       "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=39378",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "298a14f1-8c95-4965-b6bd-fedadbff8c6d",
-      "ItemVersion": 0
-    },
-    {
-      "DisplayAtAndAboveThisVersion": "0,0,0,0",
-      "Heading": "2.7.2 Devtest here",
-      "Content": "",
-      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=39394",
-      "ColorTint": "1,1,1,1",
-      "ToolTip": "",
-      "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "298a14f1-8c95-4965-b6bd-fedadbff8c6d",
+      "ItemGuid": "f3e3e454-a2c6-4c14-a891-c8814458b1f0",
       "ItemVersion": 0
     }
   ],
-  "Date": "2020-06-12T00:34:23.4241087+02:00",
+  "Date": "2020-06-17T20:47:17.1469981+02:00",
   "Author": "Jon (Community Manager)",
   "Display": true,
   "Title": "Keeping you all up to date in game too!",
