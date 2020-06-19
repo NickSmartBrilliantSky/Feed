@@ -3,16 +3,16 @@
     {
       "DisplayAtAndAboveThisVersion": "0,0,0,0",
       "Heading": "Hey all! \n ",
-      "Content": "We have released an update to stable v2.7.2. \n We will post the change log to the main 2.7 post later on as there is a small issue atm, it will be dated 17.6.2020, we shall also put this on Steam. \n This addresses a number of issues mainly the Linux prefab and menu bug and a number of new features, such as Wengs Q menu additions to refil ammo/fuel etc in designer mode. ",
-      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=39378",
+      "Content": "We have released a new Betatest build 2.7.3 (was known as Devtest). \n If you want to know what's in this build check out the first link below! \n We do know about the reinforced wood texture issue and we shall resolve this in future. ",
+      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=39405",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "f3e3e454-a2c6-4c14-a891-c8814458b1f0",
+      "ItemGuid": "f19a9e1b-4c78-4aa0-9719-f434b2864f05",
       "ItemVersion": 0
     }
   ],
-  "Date": "2020-06-17T20:47:17.1469981+02:00",
+  "Date": "2020-06-19T19:33:07.4990086+02:00",
   "Author": "Jon (Community Manager)",
   "Display": true,
   "Title": "Keeping you all up to date in game too!",
