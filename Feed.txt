@@ -3,16 +3,16 @@
     {
       "DisplayAtAndAboveThisVersion": "0,0,0,0",
       "Heading": "Hey all! \n ",
-      "Content": "We have released a new Betatest build 2.7.4. \n If you want to know what's in this build check out the first link below! ",
-      "UrlLink": "https://forum.fromthedepthsgame.com/showthread.php?tid=39409",
+      "Content": "We have finally come out of Early Access and released From The Depths! \n Nick has left us all a little message in the link below \n We thank you all, from all of us at Brilliant Skies for all your support, help and patience.",
+      "UrlLink": "https://youtu.be/QLfN7F91O6o",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "f4fe936b-6926-497d-839e-bd66e5cbf874",
+      "ItemGuid": "92dc8495-3f64-4aa4-b8f1-fc9ccae63bdc",
       "ItemVersion": 0
     }
   ],
-  "Date": "2020-07-01T20:23:33.6697253+02:00",
+  "Date": "2020-11-06T19:23:45.768554+01:00",
   "Author": "Jon (Community Manager)",
   "Display": true,
   "Title": "Keeping you all up to date in game too!",
