@@ -3,16 +3,16 @@
     {
       "DisplayAtAndAboveThisVersion": "0,0,0,0",
       "Heading": "Hey all! \n ",
-      "Content": "We have finally come out of Early Access and released From The Depths! \n Nick has left us all a little message in the link below \n We thank you all, from all of us at Brilliant Skies for all your support, help and patience.",
-      "UrlLink": "https://youtu.be/QLfN7F91O6o",
+      "Content": "Don't forget you can catch up with all the latest updates in the link below \n Thanks for all your support, help and patience.",
+      "UrlLink": "https://fromthedepthsgame.com/",
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "92dc8495-3f64-4aa4-b8f1-fc9ccae63bdc",
+      "ItemGuid": "14072d56-23af-448b-afd3-0f4c6473ab57",
       "ItemVersion": 0
     }
   ],
-  "Date": "2020-11-06T19:23:45.768554+01:00",
+  "Date": "2021-01-20T15:13:22.8924397+01:00",
   "Author": "Jon (Community Manager)",
   "Display": true,
   "Title": "Keeping you all up to date in game too!",
