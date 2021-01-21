@@ -8,11 +8,22 @@
       "ColorTint": "1,1,1,1",
       "ToolTip": "",
       "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "14072d56-23af-448b-afd3-0f4c6473ab57",
+      "ItemGuid": "2678c0c9-92f6-4a8b-bc45-3d5c390bbc77",
+      "ItemVersion": 0
+    },
+    {
+      "DisplayAtAndAboveThisVersion": "0,0,0,0",
+      "Heading": "Check out our merch here",
+      "Content": "",
+      "UrlLink": "https://store.fromthedepthsgame.com/",
+      "ColorTint": "1,1,1,1",
+      "ToolTip": "",
+      "ExpiryTime": "2100-01-01T00:00:00",
+      "ItemGuid": "2678c0c9-92f6-4a8b-bc45-3d5c390bbc77",
       "ItemVersion": 0
     }
   ],
-  "Date": "2021-01-20T15:13:22.8924397+01:00",
+  "Date": "2021-01-21T16:21:36.7689718+01:00",
   "Author": "Jon (Community Manager)",
   "Display": true,
   "Title": "Keeping you all up to date in game too!",

@@ -1,3 +1,14 @@
 {
-  "BugList": []
+  "BugList": [
+    {
+      "VersionFixed": "9,9,9,0",
+      "VersionCreated": "0,0,0,0",
+      "Title": "Steam issues",
+      "Description": "We are aware of the current Steam issues so there is no need to create new bug reports for now. Thanks.",
+      "UrlLink": "",
+      "ToolTip": "",
+      "ItemGuid": "cc16bca8-7931-40c8-b31b-1c79cb024487",
+      "ItemVersion": 0
+    }
+  ]
 }
