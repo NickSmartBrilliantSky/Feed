@@ -23,9 +23,9 @@
       "ItemVersion": 0
     }
   ],
-  "Date": "2021-01-21T16:21:36.7689718+01:00",
+  "Date": "2021-01-21T16:27:34.0571312+01:00",
   "Author": "Jon (Community Manager)",
   "Display": true,
-  "Title": "Keeping you all up to date in game too!",
-  "Summary": ""
+  "Title": "Keeping you all up to date in game too! Don't forget to check our merch store",
+  "Summary": "https://store.fromthedepthsgame.com/"
 }
