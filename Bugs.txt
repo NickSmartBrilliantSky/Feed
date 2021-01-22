@@ -43,6 +43,16 @@
     {
       "VersionFixed": "9,9,9,0",
       "VersionCreated": "0,0,0,0",
+      "Title": "Large Steam Connector output 1 side only",
+      "Description": "Large Steam connectors atm are only outputting steam from 1 side at a time.",
+      "UrlLink": "https://brilliantskies.customercase.com/forums/bug-tracker/ideas/349676-huge-boilers-do-not-output-steam-from-both-sides-of-the-connector-at-the-same-time",
+      "ToolTip": "",
+      "ItemGuid": "b4e9040b-5e3c-458d-bec1-7cfadf43e359",
+      "ItemVersion": 0
+    },
+    {
+      "VersionFixed": "9,9,9,0",
+      "VersionCreated": "0,0,0,0",
       "Title": "Video Screen (Youtube)",
       "Description": "Video screens are no longer able to display Youtube videos. The video encoding Youtube uses has changed and we need to update our API to match",
       "UrlLink": "https://brilliantskies.customercase.com/forums/bug-tracker/ideas/339779-videoscreens-youtubefunctionality-does-not-work-anymore",
