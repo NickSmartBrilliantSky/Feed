@@ -1,31 +1,8 @@
 {
-  "Items": [
-    {
-      "DisplayAtAndAboveThisVersion": "0,0,0,0",
-      "Heading": "Hey all! \n ",
-      "Content": "Don't forget you can catch up with all the latest updates in the link below \n Thanks for all your support, help and patience.",
-      "UrlLink": "https://fromthedepthsgame.com/",
-      "ColorTint": "1,1,1,1",
-      "ToolTip": "",
-      "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "804cbbee-b292-43a1-92c0-ad1c5b684bd1",
-      "ItemVersion": 0
-    },
-    {
-      "DisplayAtAndAboveThisVersion": "0,0,0,0",
-      "Heading": "Check out our merch here, Desk Mat, Hoodie, Tshirts, Mug and posters!",
-      "Content": "",
-      "UrlLink": "https://store.fromthedepthsgame.com/",
-      "ColorTint": "1,1,1,1",
-      "ToolTip": "",
-      "ExpiryTime": "2100-01-01T00:00:00",
-      "ItemGuid": "76ab26f9-7b07-4d79-a228-545ec6a67d0e",
-      "ItemVersion": 0
-    }
-  ],
-  "Date": "2021-01-22T16:38:51.2722536+01:00",
+  "Items": [],
+  "Date": "2021-01-25T16:58:53.5408683+01:00",
   "Author": "Jon (Community Manager)",
-  "Display": true,
+  "Display": false,
   "Title": "Keeping you all up to date in game too!",
   "Summary": ""
 }
