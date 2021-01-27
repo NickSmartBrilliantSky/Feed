@@ -13,16 +13,6 @@
     {
       "VersionFixed": "9,9,9,0",
       "VersionCreated": "0,0,0,0",
-      "Title": "Steam Valves",
-      "Description": "Valves don't output steam",
-      "UrlLink": "https://brilliantskies.customercase.com/forums/bug-tracker/ideas/335915-steam-engines-valves-don-t-output-steam",
-      "ToolTip": "",
-      "ItemGuid": "49303076-3b30-47ef-9214-fa3934c0f708",
-      "ItemVersion": 0
-    },
-    {
-      "VersionFixed": "9,9,9,0",
-      "VersionCreated": "0,0,0,0",
       "Title": "Steam Turbines",
       "Description": "Steam Turbines showing wrong kinetic energy value",
       "UrlLink": "https://brilliantskies.customercase.com/forums/bug-tracker/ideas/332109-steam-turbines-showing-wrong-kinetic-energy-value",
