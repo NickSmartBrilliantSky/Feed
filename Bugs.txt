@@ -41,7 +41,7 @@
       "ItemVersion": 0
     },
     {
-      "VersionFixed": "9,9,9,0",
+      "VersionFixed": "3,2,9,0",
       "VersionCreated": "0,0,0,0",
       "Title": "Video Screen (Youtube)",
       "Description": "Video screens are no longer able to display Youtube videos. The video encoding Youtube uses has changed and we need to update our API to match",
