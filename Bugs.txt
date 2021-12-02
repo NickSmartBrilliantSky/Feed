@@ -3,71 +3,11 @@
     {
       "VersionFixed": "9,9,9,0",
       "VersionCreated": "0,0,0,0",
-      "Title": "We are aware of the following and many more issues reported on our bug tracker page ",
-      "Description": "If you want to check out the current bug list ",
+      "Title": "If you want to check out the current bug list ",
+      "Description": "",
       "UrlLink": "https://brilliantskies.customercase.com/forums/bug-tracker/",
       "ToolTip": "",
       "ItemGuid": "540fc31d-e8e5-4e49-8aa0-39a4b4f203b2",
-      "ItemVersion": 0
-    },
-    {
-      "VersionFixed": "9,9,9,0",
-      "VersionCreated": "0,0,0,0",
-      "Title": "Steam Turbines",
-      "Description": "Steam Turbines showing wrong kinetic energy value",
-      "UrlLink": "https://brilliantskies.customercase.com/forums/bug-tracker/ideas/332109-steam-turbines-showing-wrong-kinetic-energy-value",
-      "ToolTip": "",
-      "ItemGuid": "aace1d53-d660-4fc7-a73a-831c5d022c33",
-      "ItemVersion": 0
-    },
-    {
-      "VersionFixed": "9,9,9,0",
-      "VersionCreated": "0,0,0,0",
-      "Title": "Large Steam components and mouse build",
-      "Description": "Large Steam Pistons and Large Steam Turbines cannot be properly placed in mouse building mode. You need to use keyboard based building to place them correctly",
-      "UrlLink": "https://brilliantskies.customercase.com/forums/bug-tracker/ideas/328880-large-steam-pistons-and-large-steam-turbines-cannot-be-properly-placed-in-mouse-building-mode",
-      "ToolTip": "",
-      "ItemGuid": "c77420aa-52b7-452a-82e0-2a74ff91b414",
-      "ItemVersion": 0
-    },
-    {
-      "VersionFixed": "9,9,9,0",
-      "VersionCreated": "0,0,0,0",
-      "Title": "Large Steam Connector output 1 side only",
-      "Description": "Large Steam connectors atm are only outputting steam from 1 side at a time.",
-      "UrlLink": "https://brilliantskies.customercase.com/forums/bug-tracker/ideas/349676-huge-boilers-do-not-output-steam-from-both-sides-of-the-connector-at-the-same-time",
-      "ToolTip": "",
-      "ItemGuid": "b4e9040b-5e3c-458d-bec1-7cfadf43e359",
-      "ItemVersion": 0
-    },
-    {
-      "VersionFixed": "3,2,9,0",
-      "VersionCreated": "0,0,0,0",
-      "Title": "Video Screen (Youtube)",
-      "Description": "Video screens are no longer able to display Youtube videos. The video encoding Youtube uses has changed and we need to update our API to match",
-      "UrlLink": "https://brilliantskies.customercase.com/forums/bug-tracker/ideas/339779-videoscreens-youtubefunctionality-does-not-work-anymore",
-      "ToolTip": "",
-      "ItemGuid": "814f805d-1aff-40aa-90fc-3bcf8200d882",
-      "ItemVersion": 0
-    },
-    {
-      "VersionFixed": "3,2,4,0",
-      "VersionCreated": "0,0,0,0",
-      "Title": "Huge missile hatches",
-      "Description": "With 5-6 ejectors fired manually can detonate the missile",
-      "UrlLink": "https://brilliantskies.customercase.com/forums/bug-tracker/ideas/343263-huge-missile-hatches-do-not-work-with-specific-ejector-counts",
-      "ToolTip": "",
-      "ItemGuid": "1c9e539b-76b6-48dd-b6ca-b27b4abe6740",
-      "ItemVersion": 0
-    },
-    {
-      "VersionFixed": "3,1,6,0",
-      "VersionCreated": "0,0,0,0",
-      "Title": "Turn wheels",
-      "Description": "The yaw-axis value of the turn response is reset (+/-1) every time the turn wheel spawns",
-      "UrlLink": "https://brilliantskies.customercase.com/forums/bug-tracker/ideas/306793-turning-wheels-automatically-re-enable-yaw-response-on-loading",
-      "ToolTip": "",
-      "ItemGuid": "474aa6d5-2fbd-4d61-8b3d-21bf6f4369f7",
       "ItemVersion": 0
     }
   ]
